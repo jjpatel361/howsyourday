@@ -17,3 +17,6 @@ Don't worry about the logs, every time you hang up your voice file is saved for 
 ## Under the hood
 
 Twilio Voice Recording / Messaging API running on Node JS SDK. The backend is AWS MySQL RDS.
+
+## Host name bought is
+http://howisyourdaygoingtoday.com/
